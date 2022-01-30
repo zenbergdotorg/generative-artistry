@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorials on Generative Artistry</title>
+    <link>https://generativeartistry.com/tutorials/</link>
+    <description>Recent content in Tutorials on Generative Artistry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 May 2021 10:24:00 -0400</lastBuildDate><atom:link href="https://generativeartistry.com/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hours of Dark</title>
+      <link>https://generativeartistry.com/tutorials/hours-of-dark/</link>
+      <pubDate>Thu, 13 May 2021 10:24:00 -0400</pubDate>
+      
+      <guid>https://generativeartistry.com/tutorials/hours-of-dark/</guid>
+      <description>Hours of Dark In this tutorial, we are going to recreate the look of a print by Accept &amp;amp; Proceed called Hours of Dark 2011. All the strokes in the grid represent a day, their width proportional to the hours of darkness and their orientation defined by the angle of the sunset.
+Here is our initial setup with a single &amp;lt;canvas&amp;gt; element, using window.devicePixelRatio to scale it on retina screens.</description>
+    </item>
+    
+    <item>
+      <title>Piet Mondrian</title>
+      <link>https://generativeartistry.com/tutorials/piet-mondrian/</link>
+      <pubDate>Mon, 27 Aug 2018 09:59:00 -0400</pubDate>
+      
+      <guid>https://generativeartistry.com/tutorials/piet-mondrian/</guid>
+      <description>Piet Mondrian Replicating Piet Mondrian&amp;rsquo;s art with code is no easy task, in fact honestly I&amp;rsquo;d say there&amp;rsquo;s no real way of pinning down his creations entirely with code, they were hand made. That said, we can try to replicate something within the realm of what would have been one of Piet&amp;rsquo;s works&amp;hellip; so that&amp;rsquo;s what we will do in this tutorial&amp;hellip; and yes, we will add the color as well.</description>
+    </item>
+    
+    <item>
+      <title>Hypnotic Squares</title>
+      <link>https://generativeartistry.com/tutorials/hypnotic-squares/</link>
+      <pubDate>Sun, 26 Aug 2018 09:59:00 -0400</pubDate>
+      
+      <guid>https://generativeartistry.com/tutorials/hypnotic-squares/</guid>
+      <description>Hypnotic Squares William Kolomyjec&amp;rsquo;s work is again reminiscent of some of the old school generative works, focusing on simple shapes, tiling and recursion.
+Today we&amp;rsquo;re going to replicate a piece of his called Hypnotic Squares.
+The only HTML we have on the page is a &amp;lt;canvas&amp;gt; element at 320×320 pixels.
+As usual, here is our initial setup. Using window.devicePixelRatio to scale the canvas on retina screens, and setting our canvas size.</description>
+    </item>
+    
+    <item>
+      <title>Circle Packing</title>
+      <link>https://generativeartistry.com/tutorials/circle-packing/</link>
+      <pubDate>Thu, 19 Jul 2018 09:59:00 -0400</pubDate>
+      
+      <guid>https://generativeartistry.com/tutorials/circle-packing/</guid>
+      <description>Circle Packing Circle packing is such a fantastic effect, it looks infinitely complex, while also being mathematically beautiful. In this tutorial, we&amp;rsquo;re going to create a circle packing effect&amp;hellip; Interestingly, this is a good example of an effect that isn&amp;rsquo;t particularly efficient to run, but at the same time, will still be very quick!
+As usual, we&amp;rsquo;re going to begin with a small, clean canvas. We will also set the size of the canvas and adjust it based on the user&amp;rsquo;s device pixel ratio, or pixel density.</description>
+    </item>
+    
+    <item>
+      <title>Un Deux Trois</title>
+      <link>https://generativeartistry.com/tutorials/un-deux-trois/</link>
+      <pubDate>Fri, 06 Jul 2018 09:59:00 -0400</pubDate>
+      
+      <guid>https://generativeartistry.com/tutorials/un-deux-trois/</guid>
+      <description>Un Deux Trois Vera Molnár is a true inspiration to anyone interested in generative art. She is truly one of the very first people to be creating digital art, and one of the most compelling to follow. In this tutorial, we&amp;rsquo;re going to reproduce one of her works, Un Deux Trois.
+We&amp;rsquo;re going to use a somewhat standard setup here, getting our canvas and context which we will use to draw.</description>
+    </item>
+    
+    <item>
+      <title>Triangular Mesh</title>
+      <link>https://generativeartistry.com/tutorials/triangular-mesh/</link>
+      <pubDate>Thu, 28 Jun 2018 10:24:00 -0400</pubDate>
+      
+      <guid>https://generativeartistry.com/tutorials/triangular-mesh/</guid>
+      <description>Triangular Mesh This triangular meshing effect is often shown off in libraries with SVG. Today we&amp;rsquo;re going to build it with canvas! It&amp;rsquo;s a great example of how a coordinate system and a little displacement can give clean beautiful effects.
+As usual we begin with a little setup code, a square canvas. We will also set the size of the canvas and adjust it based on the user&amp;rsquo;s device pixel ratio, or pixel density.</description>
+    </item>
+    
+    <item>
+      <title>Cubic Disarray</title>
+      <link>https://generativeartistry.com/tutorials/cubic-disarray/</link>
+      <pubDate>Thu, 17 May 2018 09:59:00 -0400</pubDate>
+      
+      <guid>https://generativeartistry.com/tutorials/cubic-disarray/</guid>
+      <description>Cubic Disarray Georg Nees&#39; fantastic generative art is a true inspiration. In this tutorial, we&amp;rsquo;re going to build one of his pieces: Cubic Disarray.
+The only HTML we have on the page is a &amp;lt;canvas&amp;gt; element at 320×320 pixels.
+As usual, here is our initial setup. You&amp;rsquo;re not going to see anything render here, because these are the primary lines to setting up the canvas and context which we use to draw.</description>
+    </item>
+    
+    <item>
+      <title>Joy Division</title>
+      <link>https://generativeartistry.com/tutorials/joy-division/</link>
+      <pubDate>Fri, 04 May 2018 09:59:00 -0400</pubDate>
+      
+      <guid>https://generativeartistry.com/tutorials/joy-division/</guid>
+      <description>Joy Division The Joy Division album cover has a cool history, and is a beautiful example of data driven art. In this tutorial we&amp;rsquo;re going to recreate it in a more simplistic form.
+We&amp;rsquo;re going to do this with the JavaScript canvas. No extra APIs. The only HTML we have on the page is a &amp;lt;canvas&amp;gt; element at 320×320 pixels.
+Let&amp;rsquo;s kick things off with some initial setup. You&amp;rsquo;re not going to see anything render here, because these are the primary lines to setting up the canvas and context which we use to draw.</description>
+    </item>
+    
+    <item>
+      <title>Tiled Lines</title>
+      <link>https://generativeartistry.com/tutorials/tiled-lines/</link>
+      <pubDate>Fri, 04 May 2018 09:59:00 -0400</pubDate>
+      
+      <guid>https://generativeartistry.com/tutorials/tiled-lines/</guid>
+      <description>Tiled Lines I want to get going with some of the earliest but simplest programming art out there. I&amp;rsquo;m referring to the 10 PRINT artwork initially coded for the Commodore 64. This work has been featured all over the place, and gives a really stunning effect for something so simple.
+We&amp;rsquo;re going to do this with the JavaScript canvas. No extra APIs today. The only HTML we have on the page is a &amp;lt;canvas&amp;gt; element at 320×320 pixels.</description>
+    </item>
+    
+  </channel>
+</rss>
